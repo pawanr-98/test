@@ -1,1 +1,1 @@
-No of planets are
+No of planets are eight.
