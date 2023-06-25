@@ -1,8 +1,0 @@
-This is git tutorial
-
-Code is modified.
-
-</html>
-</head></Title>SOPHOS<Title><head>
-</h1>This is new html file<h1>
-<html>
